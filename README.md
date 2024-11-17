@@ -1,7 +1,7 @@
 # Hi, I'm Md Mahbubur Rahman 👋  
 Welcome to my GitHub profile! I’m a passionate **Machine Learning** & **AI** enthusiast focused on building intelligent systems and data-driven solutions. I’m always seeking new challenges and opportunities to grow.
 
-![Profile Views](https://rahmanmahbub073.github.io/portfolio/)
+![Profile Views](https://komarev.com/ghpvc/?username=rahmanmahbub073&color=green&style=flat-square) 
 
 ## 🧠 About Me
 - **Tech Stack:** Python, TensorFlow, PyTorch, FastAPI, Jupyter, LaTeX
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate **Machine Learning** & **AI** e
 - **Goal:** To leverage the power of data and machine learning to solve impactful problems
 
 ### 📬 Reach Out
-- **LinkedIn:** [rahmanmahbub]([https://www.linkedin.com/in/rahmanmahbub](https://www.linkedin.com/in/rahmanmahbub073/))  
+- **LinkedIn:** [rahmanmahbub073]([https://www.linkedin.com/in/rahmanmahbub073/](https://www.linkedin.com/in/rahmanmahbub073/)  
 - **Email:** rahmanmahbub073@gmail.com
 
 ---
